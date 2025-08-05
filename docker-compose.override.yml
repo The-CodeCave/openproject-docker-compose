@@ -1,7 +1,7 @@
 networks:
   common-infra:
     external: true
-services:
+# services:
   # proxy:
   #   networks:
   #     common-infra:
