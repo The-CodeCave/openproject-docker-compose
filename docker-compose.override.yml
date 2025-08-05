@@ -2,8 +2,8 @@ networks:
   common-infra:
     external: true
 services:
-  proxy:
-    networks:
-      common-infra:
-          aliases:
-            - openprojects
+  # proxy:
+  #   networks:
+  #     common-infra:
+  #         aliases:
+  #           - openprojects
